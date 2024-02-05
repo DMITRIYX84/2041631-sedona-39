@@ -2,7 +2,7 @@
 
 * Студент: [Дмитрий Хамидулин](https://up.htmlacademy.ru/htmlcss/39/user/2041631).
 * Наставник: [Олег Зайцев](https://htmlacademy.ru/profile/ozi)
-
+* Сайт :[Мой сайт] (https://dmitriyx84.github.io/2041631-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
